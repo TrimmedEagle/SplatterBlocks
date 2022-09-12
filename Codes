@@ -1,7 +1,5 @@
-[
-    ["500LIKES", 1000, "Coins"],
-    ["1000LIKES", 2000, "Coins"],
-    ["BONUS", 2000, "Coins"],
-    ["TESTMONEY", 3000, "Coins"],
-    ["MEGAWHALE", 5000, "Coins"]
-]
+{
+
+["test"] = {100,100}
+
+}
