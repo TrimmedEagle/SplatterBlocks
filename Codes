@@ -4,5 +4,6 @@
 ["BONUS", 500, 0],
 ["COINS", 500, 0],
 ["KRAO", 0, 80],
-["FREEGEMS", 0, 80]
+["FREEGEMS", 0, 80],
+["750LIKES", 0, 80]
 ]
